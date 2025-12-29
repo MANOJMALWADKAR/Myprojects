@@ -29,7 +29,7 @@
 **Your Solution:**
 "I built a comprehensive interview management platform with React that solves this. The application has three main user flows:
 
-1. **Recruiters/Admins** can manage candidates, schedule interviews, assign job descriptions, and view detailed reports through an intuitive dashboard.
+1. **Recruiters/Admins** can manage candidates, schedule interviews, create and assign job descriptions, and view detailed reports through an intuitive dashboard.
 
 2. **Candidates** receive interview links via email, verify themselves with OTP, and participate in AI-powered interviews where the system records their screen, audio, and video while conducting the interview through OpenAI's Realtime API.
 
